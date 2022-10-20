@@ -1,0 +1,9 @@
+
+{
+
+     "/AdressBookSyste/get": "/ad/:id",
+
+    "/AdressBookSyste/create":"AdressBookSyste",
+    "/AdressBookSyste/update/:id":"AdressBookSyste/:id",
+    "/AdressBookSyste/delete/:id":"AdressBookSyste/:id"
+}
